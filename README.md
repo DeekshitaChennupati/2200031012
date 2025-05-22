@@ -1,3 +1,3 @@
 npm install
 
-![image](https://github.com/user-attachments/assets/7093de78-3e07-47ec-a534-312d4be70a47)
+![image](https://github.com/user-attachments/assets/b4fbad53-5489-4403-aaa7-3c195c9e55e6)
